@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">身體質量指數</string>
+    <string name="hello">哈囉</string>
+    <string name="ok">好的</string>
+    <string name="your_bmi_is">你的ＢＭＩ值</string>
+    <string name="weight">體重</string>
+    <string name="height">身高</string>
+    <string name="calculte_bmi">計算BMI</string>
+</resources>
